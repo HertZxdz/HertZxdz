@@ -1,4 +1,4 @@
-This is the real Github (Check name github HertZxD)
+This is the real Github (Check name github HertZxDz)
 Version
 Version : 4.35
 Compatible growtopia version : 4.19
