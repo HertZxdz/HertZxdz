@@ -5,7 +5,7 @@ Compatible growtopia version : 4.19
 Download Growtopia 4.19
 NOTE
 Use Growtopia 4.19 🇹🇰
-
+                        https://www.mediafire.com/file/bhm608a9cb6xeoy/GrowPaipiePaireeeeeeeeeeeeee.rar/file
 Changelogs
 Updated to 4.35 (login only) still using 4.19
 Fixed guest verify
